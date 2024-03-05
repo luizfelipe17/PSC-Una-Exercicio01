@@ -1,4 +1,3 @@
-package com.mycompany.primeiraquestao;
 import java.util.Scanner;
 
 public class TerceiraQuestao {
