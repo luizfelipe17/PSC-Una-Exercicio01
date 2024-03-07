@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class SegundaQuestao {
-
    
     public static void main(String[] args) {
          double numero1, numero2, resto;
