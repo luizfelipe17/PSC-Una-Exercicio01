@@ -11,7 +11,6 @@ public class QuartaQuestao {
        
        Scanner ler = new Scanner(System.in);
        Scanner input = new Scanner(System.in);
-      
        
        System.out.print("Informe seu nome completo: ");
             nome = ler.nextLine();
@@ -40,5 +39,4 @@ public class QuartaQuestao {
             System.out.println("\nSegue as informações:\n");
                     System.out.print("Nome: "+nome+"\nTelefone:("+ddd+") "+telefone+"\nEndereço: "+rua+", Nº"+numero+" - Bairro: "+bairro+" / "+cidade+"-"+estado);
     }
-    
 }
