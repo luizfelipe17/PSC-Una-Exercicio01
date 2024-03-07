@@ -17,5 +17,4 @@ public class OitavaQuestao {
             
         System.out.print("O valor em centímetros será: "+centimetros+"cm");
     }
-  
 }
