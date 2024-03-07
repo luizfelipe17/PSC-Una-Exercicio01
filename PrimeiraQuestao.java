@@ -17,7 +17,6 @@ public class PrimeiraQuestao {
         
         resultado = numero1 + numero2;
         
-        
         System.out.println(+numero1 + " + " +numero2 + " = " +resultado);
         System.out.println("O resultado da soma entre os dois números será: " +resultado);
         
