@@ -13,7 +13,6 @@ public class TerceiraQuestao {
        System.out.println("Olá, "+nome);
        System.out.println("Seja bem vindo!!!");
        System.out.println("Espero que esteja bem ;)");
-    
     }
 }
     
