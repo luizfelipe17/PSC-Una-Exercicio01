@@ -14,7 +14,6 @@ public class QuintaQuestao {
         System.out.print("Digite o valor em 'Dólar': US$");
             valorDolar = ler.nextDouble();
             
-            
             valorReal = valorDolar*4.95;
             
             System.out.print("O valor em real será: R$"+(df.format(valorReal)));
